@@ -4,5 +4,7 @@ int main(){
     for(i==1;i<=3;i++){
         printf("hello world  ṇ");
     }
+    printf("snehasish bhakat");
+    
     return 0;
 }
